@@ -20,8 +20,8 @@ Format: `<sender, domain or topic>` -> `<folder>`
 - Miss Excel -> Knowledge/Advance Excel
 - stock market newsletters (IND Daily, Dividendology) -> Study/Stock Market
 - Microsoft Azure account and product mail -> Azure; Microsoft event invites (Ignite, developer sessions) -> Promotions
-- Flipkart -> Shooping/FlipKart
-- order and delivery confirmations with no dedicated folder -> Shooping
+- Flipkart -> Shopping/FlipKart
+- order and delivery confirmations with no dedicated folder -> Shopping
 - bills and payment reminders -> the matching existing folder, tag Action Required, keep in inbox
 
 ## Tags
