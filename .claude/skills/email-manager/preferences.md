@@ -14,7 +14,7 @@ Format: `<sender, domain or topic>` -> `<folder>`
 - daily expense summary emails I send myself -> Analysis/Kharch_Tracker
 - Google Apps Script "Stock Alert" failure summaries -> Analysis/Stock_Alert, tag Action Required, keep in inbox
 - notifications@github.com -> GitHub
-- job alerts (Indeed, LinkedIn jobs, company career updates) -> Job Alerts
+- job alerts (Indeed, LinkedIn jobs, company career updates) -> Career/Job Alerts
 - tech newsletters, product changelogs, webinar confirmations and reminders -> Knowledge
 - .NET newsletters (Anton Dev Tips, Milan Jovanovic, Julio Casal, Pavle Davitkovic) -> Knowledge/.Net Knowledge
 - Miss Excel -> Knowledge/Advance Excel
